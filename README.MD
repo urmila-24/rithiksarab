@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Howdy Folks's 😎</h1> 
 
-<a href="https://github.com/rithik112"><img width="35%" align="right" alt="rithik112" src="https://github-profile-trophy.vercel.app/?username=rithik112&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
+<a href="https://github.com/rithiksarab"><img width="35%" align="right" alt="rithiksarab" src="https://github-profile-trophy.vercel.app/?username=rithiksarab&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 
 - 👋 I’m `@rithiksarab` 😇
 - 👀 Interested in `WebDev` currently with a focus on `Frontend` ✌️
@@ -15,19 +15,19 @@
 - ❣️ to `sleep` 💤
 
 <p align="center">
-💥<img src="https://komarev.com/ghpvc/?username=rithik112&label=PROFILE+HITS&color=000000&style=flat-square" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">💥 
+💥<img src="https://komarev.com/ghpvc/?username=rithiksarab&label=PROFILE+HITS&color=000000&style=flat-square" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">💥 
 </p>
 
 <hr>
 
 <p align="center">
   <img height="150" width="150" src="assets/WEBP/LWing.webp">
-  <img align="center" src="https://streak-stats-github.herokuapp.com?user=rithik112&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&currStreakLabel=FFD700&ring=FFD700"/>
+  <img align="center" src="https://streak-stats-github.herokuapp.com?user=rithiksarab&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD700&currStreakLabel=FFD700&ring=FFD700"/>
   <img height="150" width="150" src="assets/WEBP/RWing.webp">
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rithik112&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rithiksarab&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
 
 ![3DContrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithik112/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
+![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
