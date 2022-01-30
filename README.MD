@@ -29,3 +29,5 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rithik112&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
 
 ![3DContrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithik112/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
