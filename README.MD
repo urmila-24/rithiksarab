@@ -31,3 +31,16 @@
 ![3DContrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
+
+----
+
+<details align='center'>
+  <summary> <b> 🎶 Wanna Groove on Same Tracks ⁉️🎸</b> </summary>
+  <br>
+  <p align="center">
+    <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=h8riszzfr9uqcxw2t7pju5xbc&cover_image=true&theme=default&bar_color_cover=true"/>
+    <img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=h8riszzfr9uqcxw2t7pju5xbc&count=7&width=320"/>
+  </p>
+</details>
+
+----
