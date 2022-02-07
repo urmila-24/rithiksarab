@@ -32,12 +32,7 @@
 
 ![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
 
-🗓️ Weekly Coding Stat's 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2015%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
