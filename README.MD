@@ -32,6 +32,10 @@
 
 ![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
 
+🗓️ Weekly Coding Stat's 📊
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ----
 
 <details align='center'>
