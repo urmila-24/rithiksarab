@@ -97,8 +97,8 @@ Java                     4 repos             █░░░░░░░░░░�
   <summary> <b> 🎶 Wanna Groove on Same Tracks ⁉️🎸</b> </summary>
   <br>
   <p align="center">
-    <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=h8riszzfr9uqcxw2t7pju5xbc&cover_image=true&theme=default&bar_color_cover=true"/>
-    <img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=h8riszzfr9uqcxw2t7pju5xbc&count=7&width=320"/>
+    <img width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=h8riszzfr9uqcxw2t7pju5xbc&cover_image=true&theme=default&bar_color_cover=true"/>
+    <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=h8riszzfr9uqcxw2t7pju5xbc&count=7&width=320"/>
   </p>
 </details>
 
