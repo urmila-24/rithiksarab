@@ -1,8 +1,8 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [ master ]
+  # push:
+  #   branches: [ master ]
   schedule:
     - cron: "0 0 * * *"
 
@@ -24,4 +24,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_EDITORS: "False"
           SHOW_OS: "False"
-          SHOW_UPDATED_DATE: "False"
+          SHOW_UPDATED_DATE: "True"
