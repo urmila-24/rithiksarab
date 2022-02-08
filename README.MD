@@ -9,7 +9,7 @@
 - 👨‍🦰 Pronouns: `he/him` 👨‍💻
 - 🧠 Beginner Mindset `Open for :.earning`⚡️
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg` 😈
-- 🎉 Fun fact: My first line of code was not `"Hello World!"` 😜
+- 😜 Fun fact: My first line of code was not `"Hello World!"` 🎉
 - :octocat: I'm a `GitHub` user 😬
 - ⏳ At off hours `Netflix` 📺
 - ❣️ to `sleep` 💤
@@ -30,11 +30,16 @@
 
 ![3DContrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg"/>
+</p>
 
+<h1 align="center">🪄 In Depth analysis about me ♂️ </h1>
 <p align="center">
   <img width="80%" src="assets/SVGS/metrics.svg"/>
 </p>
+
+<hr>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -98,7 +103,7 @@ Java                     4 repos             █░░░░░░░░░░�
 ----
 
 <details align='center'>
-  <summary> <b> 🎶 Wanna Groove on Same Tracks ⁉️🎸</b> </summary>
+  <summary>👇 Click Here 👇 <h3> 🎶 Wanna Groove on Same Tracks ⁉️🎸</h3> </summary>
   <br>
   <p align="center">
     <img width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=h8riszzfr9uqcxw2t7pju5xbc&cover_image=true&theme=default&bar_color_cover=true"/>
