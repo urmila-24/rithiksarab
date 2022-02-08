@@ -21,5 +21,5 @@ jobs:
           git config user.name ${{ github.repository_owner }}
           git config user.email rithiksarab112@gmail.com
           git add -A .
-          git commit -m "Updated 3D Contrib"
+          git commit -m "Updated 3D Contrib❗"
           git push
