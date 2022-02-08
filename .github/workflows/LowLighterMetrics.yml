@@ -1,6 +1,6 @@
 name: LowLighter Metrics
 on:
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "* */12 * * *"}]
   workflow_dispatch:
 jobs:
   metrics:
