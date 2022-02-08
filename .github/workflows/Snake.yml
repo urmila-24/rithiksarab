@@ -1,4 +1,4 @@
-name: Generate SnakeContrib
+name: SnakeContrib
 
 on:
   schedule:
