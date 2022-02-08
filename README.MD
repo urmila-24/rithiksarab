@@ -112,3 +112,12 @@ Java                     4 repos             █░░░░░░░░░░�
 </details>
 
 ----
+
+<p align="center">
+
+  [![LowLighter Metrics](https://github.com/rithiksarab/rithiksarab/actions/workflows/LowLighterMetrics.yml/badge.svg)](https://github.com/rithiksarab/rithiksarab/actions/workflows/LowLighterMetrics.yml)
+  [![SnakeContrib](https://github.com/rithiksarab/rithiksarab/actions/workflows/Snake.yml/badge.svg)](https://github.com/rithiksarab/rithiksarab/actions/workflows/Snake.yml)
+  [![Waka Readme](https://github.com/rithiksarab/rithiksarab/actions/workflows/WakaReadMe.yml/badge.svg)](https://github.com/rithiksarab/rithiksarab/actions/workflows/WakaReadMe.yml)
+  [![3DContrib Graph](https://github.com/rithiksarab/rithiksarab/actions/workflows/3DContrib.yml/badge.svg)](https://github.com/rithiksarab/rithiksarab/actions/workflows/3DContrib.yml)
+
+</p>
