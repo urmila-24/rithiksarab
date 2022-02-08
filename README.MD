@@ -32,6 +32,10 @@
 
 ![Snake 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img width="80%" src="assets/SVGS/metrics.svg"/>
+</p>
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
