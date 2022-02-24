@@ -124,6 +124,6 @@ Java                     4 repos             █░░░░░░░░░░�
 
 ----
 
-<center> 💻 Made with ❣️  
+<p align="center"> 💻 Made with ❣️  
 <a style='text-decoration: none;' href="https://github.com/rithiksarab">@rithiksarab</a> 😇
-</center>
+</p>
