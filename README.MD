@@ -123,4 +123,7 @@ Java                     4 repos             █░░░░░░░░░░�
 </p>
 
 ----
-## 💻 Made with ❣️[@rithiksarab](https://github.com/rithiksarab "😇 Rithik's Github Profile")⚡
+
+<center> 💻 Made with ❣️  
+<a style='text-decoration: none;' href="https://github.com/rithiksarab">@rithiksarab</a> 😇
+</center>
